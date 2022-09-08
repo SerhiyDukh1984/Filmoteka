@@ -2,10 +2,10 @@
   "name": "Filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://chyharov.github.io/Filmoteka/",
+  "homepage": "https://SerhiyDukh1984.github.io/filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka/"
+    "build": "parcel build src/*.html --public-url /filmoteka/"
   },
   "repository": {
     "type": "git",
